@@ -16,5 +16,7 @@ void main() {
     ],
   );
 
-  runApp(MaterialApp(home: NotificationPage()));
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+    home: NotificationPage()));
 }
