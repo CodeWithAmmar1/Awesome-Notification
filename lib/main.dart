@@ -10,8 +10,8 @@ void main() {
         channelKey: 'basic_channel',
         channelName: 'Basic notifications',
         channelDescription: 'Notification channel for basic alerts',
-        defaultColor: Color(0xFF42A5F5), // Default background color for this channel
-        ledColor: Colors.white, // LED color
+        defaultColor: Color(0xFF42A5F5), 
+        ledColor: Colors.white, 
       ),
     ],
   );
